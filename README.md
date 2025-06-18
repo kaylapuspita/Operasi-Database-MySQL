@@ -32,9 +32,15 @@ Keluar dari menu interaktif dengan aman.
 
 
 Tentang
+
 Dibuat oleh Kayla Puspita Khairiyah
-Sebagai latihan pemrograman Java dan integrasi dengan MySQL
+
 👩‍💻 Mahasiswa Teknik Informatika - Universitas Nusa Putra
+
+
+
+
+
 
 
 📎 Lisensi
