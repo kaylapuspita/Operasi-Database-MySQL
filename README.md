@@ -1,5 +1,3 @@
-# Operasi-Database-MySQL
-
 # 📚 Aplikasi Perpustakaan Java (Koneksi MySQL)
 
 Sebuah aplikasi sederhana berbasis Java yang terhubung dengan database MySQL untuk mengelola data buku di perpustakaan. Dibuat dengan fokus pada kemudahan penggunaan, konektivitas database, dan pengelolaan data yang efisien. 🚀
