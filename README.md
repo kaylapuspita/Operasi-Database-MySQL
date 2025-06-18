@@ -20,9 +20,13 @@ Keluar dari menu interaktif dengan aman.
 
 
 💻 Teknologi yang Digunakan
+
 ☕ Java With Ant
+
 🛢️ MySQL Database
+
 🔗 JDBC (MySQL Connector)
+
 🧠 NetBeans IDE
 
 
