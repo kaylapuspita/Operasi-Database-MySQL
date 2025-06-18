@@ -19,29 +19,21 @@ Keluar dari menu interaktif dengan aman.
 
 ---
 
-## 🗃️ Struktur Database (Tabel `buku`)
-
-```sql
-CREATE TABLE buku (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    judul VARCHAR(100) NOT NULL,
-    pengarang VARCHAR(100) NOT NULL,
-    penerbit VARCHAR(100) NOT NULL,
-    tahun_terbit INT NOT NULL
-);
 
 
 💻 Teknologi yang Digunakan
 ☕ Java With Ant
-
 🛢️ MySQL Database
-
 🔗 JDBC (MySQL Connector)
-
 🧠 NetBeans IDE
+
 
 
 Tentang
 Dibuat oleh Kayla Puspita Khairiyah
 Sebagai latihan pemrograman Java dan integrasi dengan MySQL
 👩‍💻 Mahasiswa Teknik Informatika - Universitas Nusa Putra
+
+
+📎 Lisensi
+MIT License © 2025
